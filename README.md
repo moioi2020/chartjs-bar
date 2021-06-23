@@ -5,6 +5,8 @@
 ## Demo 
 https://handsondataviz.github.io/chartjs-bar/
 
+https://moioi2020.github.io/chartjs-bar/
+
 Sample data by CT Department of Education.
 
 ## Create your own
